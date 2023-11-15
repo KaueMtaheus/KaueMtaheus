@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Kauê Matheus 🤙🏿
+### Olá! Eu sou Kauê Matheus 🤙🏿
 
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kauemtaheus.github.io/Portfolio2/arquivos/index.html)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-matheus-ferreira-6084b01b3/)
