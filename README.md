@@ -2,7 +2,7 @@
 ### Olá! Eu sou Kauê Matheus 🤙🏿
 
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kauemtaheus.github.io/Portfolio2/arquivos/index.html)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-matheus-ferreira-6084b01b3/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaue-matheus-6084b01b3)
 
 ![kauê GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueMtaheus&show_icons=true&theme=dracula)
 
